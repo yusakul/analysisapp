@@ -1,6 +1,6 @@
 # AnalysisApp
 
-[原项目](https://github.com/fengzhizi715/AnalysisApp),计划：更新sdk列表并自动读取清单文件
+[原项目](https://github.com/fengzhizi715/AnalysisApp)，后续计划：更新sdk列表并自动读取清单文件
 
 ***
 
