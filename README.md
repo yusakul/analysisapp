@@ -1,5 +1,7 @@
 # AnalysisApp
 
+[原项目](https://github.com/fengzhizi715/AnalysisApp),计划：更新sdk列表并自动读取清单文件
+
 这是一个快速分析某个app使用哪些sdk的小工具。对广告sdk进行了特别的关照,因为一开始是想写一个分析使用哪些广告sdk的工具。
 
 大致思路是读取android app的AndroidManifest.xml文件，将其转换成相应的对象。然后遍历该对象中Activity、Service、meta-data、Receiver等元素列表，将其跟sdk的特征值进行匹配。如果匹配成功表示app包含该sdk，并记录下来。
